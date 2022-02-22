@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ansvvers for John Walkingshaw of Borrowfield To the libel at the instance of Robert Greenlies in Glasgow, and Robert Yool, one of the baillies thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25638</idno>
+            <idno type="STC">Wing A3463B</idno>
+            <idno type="STC">ESTC R213488</idno>
+            <idno type="EEBO-CITATION">99825858</idno>
+            <idno type="PROQUEST">99825858</idno>
+            <idno type="VID">30249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1804:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ansvvers for John Walkingshaw of Borrowfield To the libel at the instance of Robert Greenlies in Glasgow, and Robert Yool, one of the baillies thereof.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walkinshaw, John, --  of Barrowfield --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30249:1" rendition="simple:additions"/>
+            <head>ANSWERS FOR <hi>John Walkingſhaw</hi> of <hi>Borrowfield.</hi>
+            </head>
+            <head>To the Libel at the inſtance of <hi>Robert Greenlies</hi> in <hi>Glaſ<g ref="char:EOLhyphen"/>gow,</hi> and <hi>Robert Yool,</hi> one of the Baillies thereof.</head>
+            <p>WHereas there is a Libel Purſued before the Lords of His Majeſty's Privy Council, at the inſtance of the forenamed Perſons, againſt the ſaid <hi>Burrowfield,</hi> founded upon ſeveral Ancient Laws againſt Privy Conven<g ref="char:EOLhyphen"/>tions, and putting on Armour within Burgh, without the Magiſtrates Licence, and againſt Convocating and Aſſembling within Burgh, and for Aſſiſting the Magi<g ref="char:EOLhyphen"/>ſtrates for ſuppreſſing of Tumults: And ſubſumi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, that notwithſtanding thereof, the ſaid <hi>Burrowfield</hi> drew his Sword and beat the ſaid <hi>Robert Greenlies,</hi> and by many Execrable Oaths, ſwore he would kill him without any other Provocation, but that by order of Baillie <hi>Yool,</hi> he had ſeized Two Horſes belonging to <hi>Hugh Ha<g ref="char:EOLhyphen"/>milton,</hi> for Tranſporting the Bagage of Colonel <hi>Hamilton</hi>'s Regiment, and that he reſcued the ſaids two Horſes and ſent them to his own Stables of <hi>Burrowfield;</hi> and therefore concluding him guilty of an unwarrantable Oppoſition to the Ma<g ref="char:EOLhyphen"/>giſtrates Commands, Beating and Blooding of the Town Officer, Sweating and Prophaning of the Name of GOD.</p>
+            <p>To which it is Anſwered, That the Laws Libelled have no Relation to the mat<g ref="char:EOLhyphen"/>ter of Fact ſubſumed, theſe Laws relating only to the unlawfull Aſſemblies and Convocations within Burgh, and to the Tumults therefrom ariſing, but not to a<g ref="char:EOLhyphen"/>ny caſual Quarrel, though ending in Blows, which is frequent in every Burgh: And as for <hi>Burrowfield</hi> himſelf, he is no Inhabitant of <hi>Glaſgow,</hi> but a Neighbour Heretor, and wears only an ordinary walking Sword, as much for Ornament as Uſe, and at no time puts on any of the Armour related to in thoſe Acts, and at all occaſions gives ſuitable reſpect to the Magiſtrates his Neighbours.</p>
+            <p>And as to the Fact Libelled, the ſame is altogether Calumnious, for the Forces were Marched the day before, and the Bagage undoubtedly carried along with them, and <hi>Burrowfield</hi> going home to his own Houſe without any Company but his own Servant, and ſeeing an Inſult made upon <hi>Hamilton</hi> his Tenent, under Cloud of Night, forcing him from his Bed, and carrying away his Horſes by Violence without any Warrand for that effect, <hi>Burrowfield</hi> judged it lawfull to Aſſiſt his Te<g ref="char:EOLhyphen"/>nent <hi>Hamilton</hi> in Defending him and his Horſes from any, who Acted more like a Robber then a Perſon under Authority, which he did not pretend, but even up<g ref="char:EOLhyphen"/>braided <hi>Burrowfield,</hi> and offered to Beat him with a Rung: In which ſmall Scuffle, if <hi>Burrowfield</hi> have taken his Sword in his hand to Compeſce the Inſulter his, Inſo<g ref="char:EOLhyphen"/>lence, a Juſtice of Peace might have been ſufficiently comptent for all that matter, without troubleing your Lordſhips; and <hi>Burrowfield</hi> believes, that the ſaid Inſulting Perſon himſelf, would never have Complained thereof, if <hi>Dowhill</hi> who muſt make buſineſs for the Town of <hi>Glaſgow,</hi> to give him an Errand to <hi>Edinburgh</hi> on their
+<pb n="2" facs="tcp:30249:2"/>Charges at this Juncture, had not made uſe of his Name for the end foreſaid.</p>
+            <p>Though <hi>Burrowfield</hi> be Libelled againſt for oppoſing the Magiſtrates in the lawfull exerciſe of the Government, yet there is no circumſtance of his Oppoſiti<g ref="char:EOLhyphen"/>on Libelled upon, nor can be: And if that oppoſing of the Inſulter be the Oppo<g ref="char:EOLhyphen"/>ſition meaned by, <hi>Burrowfield</hi> was innocent, for he did not look upon the Inſulter as a Magiſtrate, nor ſaw he any Warrand from a Magiſtrate, nor did any Magi<g ref="char:EOLhyphen"/>ſtrate ſpeak to him on the Subject: And ſeeing by the Acts of Parliament 1681, and 1693. The Magiſtrates of Burrows, are ordained to have a competent Num<g ref="char:EOLhyphen"/>ber of Horſes in readineſs for the ſervice of the Forces, <hi>Burrowfield</hi> could not doubt but that the Magiſtrates of <hi>Glaſgow</hi> were accordingly provided; becauſe they uſed to have a Liſt of all the ordinary Carters and Bagage-Men, and appointed them their Rooms by turns: And it was never heard of, that ever there was ſo uneven<g ref="char:EOLhyphen"/>ly a caſt of the Bagage Horſe for one Regiment, as that Fourteen Horſes of Sixteen ſhould be put upon <hi>Burrowfield,</hi> his Tenents. Beſide, that the Baggage was gone off, and that ſo the Inſulter was doing unwarrantably in the ſilence of the Night, in Robbing <hi>Hamilton</hi> of his Horſes, and the rather becauſe they had beeen ſo im<g ref="char:EOLhyphen"/>ployed for Six or Seven times ſucceſſive of before, whereas they ought only to be imployed by their turns, and with that diſcretion, that Carters and Hyrers Horſe who have no labour be firſt imployed, and thoſe who leave labour; laſt, and this was in the throng of <hi>Hamiltons</hi> labour.</p>
+            <p>Whereas the Libel Subſumes, that <hi>Burrowfield</hi> uſed Execrable Oaths, the Libel is Calumnious, and he is known by his Neighbours to be free thereof, and to abhore the ſame: And if at any time in paſſion an Oath eſcape, he repents it ſeriouſly, and would never have expected that any good Neighbour would have expoſed him to your Lordſhips on that behalf, which might have been well judged by a Juſtice of Peace, to whom by their Inſtructions the Cognition thereof is committed.</p>
+            <p>
+               <hi>In reſpect of all which,</hi> Burrowfield <hi>ought to be Aſſoilzied, and the Anthors and Fomenters of this groundleſs Libel condemned in Expenſes.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>Double of the Libel at the inſtance of</hi> John Walkingſhaw <hi>of</hi> Burrowfield, Robert Turner, Richard Greenleis, James Greenleis, John Armor, William Martain, Thomas Greens, David Watſon, <hi>and the other Tennents of the ſaid</hi> John Walkingſhaw.</head>
+            <head type="sub">
+               <hi>AGAINST</hi> John Anderſon <hi>of</hi> Dovehill <hi>Provoſt of</hi> Glaſgow, Robert Yool John Aird <hi>Elder, and</hi> Iohn Warddrop, <hi>Baillies of the ſaid Burgh of</hi> Glaſgow.</head>
+            <p>THAT whereby the Rules of Society Laws, Conſtitution, and Practice of this and all well governed Nations and Kingdoms, all neceſſary Bur<g ref="char:EOLhyphen"/>dens and Impoſitions are laid on and exacted by an equal Proportion; ſo that every Member of the Society, Reſidenter, and Subject in the Kingdom may bear an equal ſhare; and that no Man be Oppreſt, but every one
+<pb n="3" facs="tcp:30249:2"/>bear an equal Burden: As alſo, By the good and wholeſome Laws and Acts of Parliament of this Nation, and particularly the 4th. <hi>Act</hi> of the 4th. <hi>Seſ.</hi> of this cur<g ref="char:EOLhyphen"/>rent Parliament, ratifying and confirming the Act of Parliament 1681. and the Act of Privy Council, dated the 14 <hi>February</hi> 1693 years. It is thereby Statute, and Ordaind, That where it ſhall be neceſſar, that the Army have uſe for Bag<g ref="char:EOLhyphen"/>age-Horſes for tranſporting their Bagadge from place to place, That if the Army or Party having uſe for the ſaid Bagage-Horſe, be in a Burgh, that the Horſe may be imployed and made uſe of by Order of the Commander of the Party, and the Magiſtrats of the Burgh joyntly: And where the Horſes are furniſhed &amp; made uſe of in Landwart, by the order of the Commander, and one of the Com<g ref="char:EOLhyphen"/>miſſioners of the Supply within the Shire. Likeas, By the Ninth Act of the Seventh Seſsion of this Current Parliament, anent Quartering of Souldiers, The foreſaid Act is confirmed, and juſt and equal Methods laid down, and Penalties determined againſt thoſe who ſhall be Guilty in the matter of Quartering: And it is thereby declared, That the ſame Execution ſhall be granted for Carriages as for Quartering. As alſo, By the 45. <hi>Chap. Parl. 2d. Ja.</hi> 1. It is Statute, That all Judges do, and execute the Law evenly: And by the 17-<hi>Chap. Parl.</hi> 6. <hi>Ja.</hi> 2. It is Statute, That all Officers wilfully Treſpaſing in their Offices, ſhall tyne the ſame for Year and Day; And by the foreſaid Act of Privy Council, confirmed by Act of Parliament, as aforeſaid. It is Statute, That there ſhall be payed of Hyre for each Horſe, One Shllling Six Pennies for each Mile; And that it ſhall not be lawful to keep any Man's Horſes longer than one Day. Likeas, By the Act of laſt Seſsion of Parliament, anent the Security of the perſons of the Leidges, It is Statute, That no Man be impriſoned without condeſcending upon a par<g ref="char:EOLhyphen"/>ticular and ſpecial Crime; and that no perſon be keept and detained in priſon af<g ref="char:EOLhyphen"/>ter ſufficient Baill and Caution is offered for preſenting the ſaid perſon to abide and underly the Law, and that under the Penalty mentioned in the ſaid Act: As alſo, by the Law and Practique of this Kingdom, The Spulzieing and Maſterful<g ref="char:EOLhyphen"/>ly away-taking of Plough Horſe in time of Labouring, is a Crime of a high Nature and ſeverely puniſhable: Yet nevertheleſs, the ſaid <hi>John Anderſon</hi> of <hi>Dovehill,</hi> having ſhaken off all fear of God, Obedience, and Regard to His Majeſty and Government, and the Laws and Acts of Parliament of this Kingdom, and the Rules of Chriſtianity, and Society, He the ſaid <hi>John Anderſon,</hi> with <hi>Robert Yool, John Aird,</hi> and <hi>John Warddrop,</hi> and one or other of them, conceiving a deadly preju<g ref="char:EOLhyphen"/>dice, Hatred, Malice, and Envy againſt the ſaid <hi>John Walkingſhaw</hi> of <hi>Barrowfield,</hi> and his Tenents, and ſnatching all occaſions and oppertunities for Oppreſsing the ſaids Complainers, did upon the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  day of <hi>March</hi> laſt by paſt, or one or other of the days of the ſaid Month, when the Regiment of Foot under the Command of Collonel <hi>George Hamiltoun</hi> was to March from <hi>Glaſgow;</hi> And when Application was made by the Officers of the ſaid Regiment three Days before their March, that they had need of Sixteen Horſes for Tranſport<g ref="char:EOLhyphen"/>ing their Ladies and Bagage; The ſaid <hi>John Anderſon</hi> and the other Defenders, al<g ref="char:EOLhyphen"/>beit at that time there was Thirty common Carriers, and a Hundred Hireling Horſes, which were conſtantly imployed in ſuch Services, did cauſe give Ad<g ref="char:EOLhyphen"/>vertiſement to the common Carriers and Horſe Hirers, to keep their Horſes out of the way, the Day when the Regiment was to March; whereas the foreſaid Defenders ought to have Proportioned the Number of Horſe, and appointed the Carriers and Horſe Hirers to have been in readineſs; But in ſtead thereof, The ſaid <hi>John Anderſon</hi> and the other perſons complained upon, did ſend to the Com<g ref="char:EOLhyphen"/>plainers Lands, while his, and his Tenents Horſes were Plouing, and in the Har<g ref="char:EOLhyphen"/>rows
+<pb n="4" facs="tcp:30249:3"/>albeit the Purſuers Lands lyes not within the Juriſdiction of the Magiſtrats of <hi>Glaſgow,</hi> and did Unjuſtly, Maſterfully, and Oppreſsfully take away Fourteen of the Complainers and his Tenents Horſes, whereas the Regiment had only for uſe Sixteen, and did paſs by the common Carriers and Horſe Hirers of the Town of <hi>Glaſgow,</hi> whoſe Trade and Imployment it is to furniſh Cairts and Horſes for tranſporting Perſons and Bagages: And as further Inſtances of the ſaids Defen<g ref="char:EOLhyphen"/>ders, their Acts of Oppreſſion, They hunded out, and gave Warrand to their Town Officers, who upon the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Day of <hi>March</hi> laſt by-paſt came under Cloud of Night, at Eleven a Clock, and brake open the Doors of <hi>Richard Greenleis</hi> and <hi>Hugh Hamiltoun,</hi> Two of the Compleaners Tenents, their Horſes, while they were in their Beds, and draged them out of their Beds, and Seiſed their Horſes, and ſecured them in other Stables, for the ſpace of two Nights, to the great prejudice of the Horſes, and the Tennents their Labouring, the Seed lying upon the Ground unharrowed: As alſo, <hi>John Boner,</hi> on of the Complainers Tenents, having his Horſe Ploughing ſome Land belonging to <hi>John Luke, Dovehills</hi> Brother in Law, was exenſed from carrying any of the Bagage; But when after the Regiment was Marched, and no more uſe for Bagage Horſes, it was told <hi>Dovehill,</hi> That ths ſaid <hi>John Boner</hi> was one of the Complainers Tenents, the ſaid <hi>John</hi> was committed to Priſon untill he ſhould furniſh Horſes, albeit there was uſe for them: As alſo, the ſaid <hi>Robert Yool</hi> one of the Defenders, having called <hi>David Watſon,</hi> one of the Complainers, to furniſh two Horſe for Carrying the Bagage of the ſaid Regiment, the ſaid <hi>David</hi> told the Baillie, that his Horſes were Hired by his Maſter <hi>Burrowfield,</hi> and drawing in his Maſters Plough: Never<g ref="char:EOLhyphen"/>theleſs, the ſaid <hi>Robert Yooll</hi> Baillie, did moſt wrongouſly, and unjuſtly commit the ſaid <hi>David Watſon</hi> to priſon until he ſhould furniſh two Horſes upon his own expenſes, and continued the ſaid <hi>David</hi> in priſon, albeit the Complainer his Maſter offered to Baill him in the Terms of the Act of Parliament, as appears by Inſtruments taken thereupon. Likeas, the Complainers Tennents Horſes being ſo Maſterfully preſt, were by the Direction of the ſaids Defenders, carried not only to <hi>Kilſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> the firſt days Journey, but likeways to <hi>Falkirk,</hi> contrair to the Act of Parlia<g ref="char:EOLhyphen"/>ment and expreſs uſe and practice in the like caſe, and when the Tenents Cairts and Horſes were returned inſtead of receiving Three pound <hi>Scots</hi> for each Cairt, as con<g ref="char:EOLhyphen"/>ſtant uſe is; there was no more given to them but Two Shilling <hi>Starline:</hi> By all which it is evident, That the ſaid <hi>John Anderſon</hi> and the other perſons above com<g ref="char:EOLhyphen"/>plained upon, are Guilty of manifeſt Oppreſſion, Injuſtice and Crooked Judgement, and of the Breach of the Rules and Laws of Society, and of the Acts of Parliament, and Conſtitutions of this and all well governed Nations, which being proven, the fore<g ref="char:EOLhyphen"/>named Defenders, and ilke one of them, ought not only to be decerned to make up and repair the Damages and Loſſes ſuſtained by the ſaid Complainers and his Ten<g ref="char:EOLhyphen"/>nents, and to pay the Penalties &amp; Fines contained in the Act of Parliament anent wrong<g ref="char:EOLhyphen"/>ous Impriſonment, and to Loſs and Tyne the Offices of Magiſtrates in not judging evenly; But alſo further Puniſh'd in their Perſons and Goods, to the Terror of others to do the like in time to come, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:30249:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
